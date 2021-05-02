@@ -1,0 +1,17 @@
+
+                    Function: foo
+                    Parameter: x
+                    Body:
+                        x = True;
+                        If x Then
+                            Var: x;
+                            x = 5;
+                        ElseIf False Then
+                            Var: x;
+                            x = 5.5;
+                        Else
+                            x=1;
+                            x = True;
+                        EndIf.
+                    EndBody.
+                   

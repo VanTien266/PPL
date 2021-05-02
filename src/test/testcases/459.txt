@@ -1,0 +1,4 @@
+Function: main
+                    Body:
+                        read(4);
+                    EndBody.

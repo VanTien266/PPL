@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x)),VarDecl(Id(y)),VarDecl(Id(z)),FuncDecl(Id(main)[],([VarDecl(Id(t),IntLiteral(3))][Assign(Id(t),Id(x)),Assign(Id(z),Id(y))]))])

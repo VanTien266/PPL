@@ -1,0 +1,10 @@
+
+                    Function: foo
+                    Parameter: x
+                    Body:
+                        x = True;
+                        If x Then
+                        x = 1;
+                        EndIf.
+                    EndBody.
+                   

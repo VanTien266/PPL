@@ -1,0 +1,15 @@
+
+                    Function: tien
+                    Parameter: x
+                    Body:
+                    x = 1;
+                    EndBody.
+
+                    Function: main
+                    Parameter: y
+                    Body:
+                        Var: a;
+                        tien(y);
+                        a = y + 2.5;
+                    EndBody.
+                   

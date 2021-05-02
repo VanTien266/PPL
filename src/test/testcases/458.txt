@@ -1,0 +1,10 @@
+
+                    Function: foo
+                    Parameter: x, y
+                    Body:
+                    x=1;
+                    For (x = y, True, 1) Do
+                        x = y + 2.5;
+                    EndFor.
+                    EndBody.
+                   

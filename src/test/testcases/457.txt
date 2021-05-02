@@ -1,0 +1,12 @@
+
+                    Function: foo
+                    Parameter: x
+                    Body:
+                        x = True;
+                        If x Then
+                        x = False;
+                        ElseIf False Then
+                        x = 10.5;
+                        EndIf.
+                    EndBody.
+                   

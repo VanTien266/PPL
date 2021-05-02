@@ -1,0 +1,11 @@
+
+                    Function: foo
+                    Parameter: x
+                    Body:
+                        x = True;
+                        If x Then
+                        x = False;
+                        ElseIf True Then
+                        EndIf.
+                    EndBody.
+                   

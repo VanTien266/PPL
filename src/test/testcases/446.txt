@@ -1,0 +1,11 @@
+
+                    Function: foo
+                    Parameter: x
+                    Body:
+                    x = 1;
+                    Do
+                    x = x + 10.5;
+                    While True
+                    EndDo.
+                    EndBody.
+                   
